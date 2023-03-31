@@ -1,6 +1,6 @@
 Name:		texlive-phfqit
 Version:	60734
-Release:	1
+Release:	2
 Summary:	Macros for typesetting Quantum Information Theory
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfqit
