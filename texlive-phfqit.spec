@@ -3,7 +3,7 @@ Version:	60734
 Release:	2
 Summary:	Macros for typesetting Quantum Information Theory
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfqit
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/phfqit
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfqit.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfqit.doc.r%{version}.tar.xz
